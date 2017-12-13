@@ -1,14 +1,14 @@
 /**
  * 
- * @×÷Õß£º ÍõÀ×£ºhttp://blog.csdn.net/wanglei_person
- * @ÈÕÆÚ£º 2017Äê11ÔÂ27ÈÕ  ÉÏÎç9:24:31
+ * @ä½œè€…ï¼š ç‹é›·ï¼šhttp://blog.csdn.net/wanglei_person
  *
- * @ÃèÊö£ºÊ¹ÓÃÊÊÅäÆ÷£¬À´½øĞĞ¹©µç
- * 		×¢Òâ£ºÕâÀïÊÇ²ÉÓÃ¼Ì³ĞµÄ·½Ê½ÊµÏÖµÄ
+ *
+ * @æè¿°ï¼šä½¿ç”¨é€‚é…å™¨ï¼Œæ¥è¿›è¡Œä¾›ç”µ
+ * 		æ³¨æ„ï¼šè¿™é‡Œæ˜¯é‡‡ç”¨ç»§æ‰¿çš„æ–¹å¼å®ç°çš„
  */
 public class Adapter extends Current{
 	public void use18(){
-		System.out.println("Ê¹ÓÃÊÊÅäÆ÷");
+		System.out.println("ä½¿ç”¨é€‚é…å™¨");
 		this.use220();
 	}
 }
